@@ -13,3 +13,21 @@ h1, h2 {
 header {
 	border-bottom: solid 1px black;
 }
+
+/* Class Selectors */
+.class-list {
+	list-style-type: square;
+}
+
+.item {
+	border: 0.5px solid black;
+}
+
+.even {
+	background-color: gray;
+}
+
+.odd {
+	background-color: black;
+	color: white;
+}
